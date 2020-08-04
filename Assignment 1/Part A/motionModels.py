@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 # Load data
-filename = 'training1.csv'
+filename = 'training2.csv'
 data = np.loadtxt(filename, delimiter=',', skiprows=1)
 
 # Split into columns
